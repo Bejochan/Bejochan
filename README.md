@@ -5,7 +5,7 @@
 ### Data Science Student
 **Electronic Engineering Polytechnic Institute of Surabaya — 4th Semester**
 
-> "In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being." — Albert Schweitzer
+> *"In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being."* — *Albert Schweitzer*
 
 Applying Data Science to solve problems, while exploring the depths of human minds and gaming backlogs in my free time.
 
@@ -60,3 +60,5 @@ Here is where you can find me when I am not coding:
 I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
 *   **[Blueberry Cheesecake](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)** 🍰
 *   **[Classic Affogato](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)** ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=footer" width="100%"/>
