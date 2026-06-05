@@ -5,6 +5,8 @@
 ### Data Science Student
 **Electronic Engineering Polytechnic Institute of Surabaya — 4th Semester**
 
+> "In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being." — Albert Schweitzer
+
 Applying Data Science to solve problems, while exploring the depths of human minds and gaming backlogs in my free time.
 
 ---
@@ -38,8 +40,9 @@ I work with Python and its rich ecosystem for data analysis and visualization:
 
 ## ◇ GitHub Statistics
 <p align="left">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bejochan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bejochan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bejochan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bejochan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's Top Languages" />
 </p>
 
 ---
@@ -49,9 +52,11 @@ Here is where you can find me when I am not coding:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adnan._oktar/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000.svg?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
-[![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF.svg?style=flat&logo=gamepad&logoColor=white)](https://backloggd.com/u/Bejo/)
+[![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF.svg?style=flat&logo=retroarch&logoColor=white)](https://backloggd.com/u/Bejo/)
 [![Steam](https://img.shields.io/badge/Steam-%2300ADEE.svg?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198847624087/)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/312ablatv2yks3ugfrjx4hwvrbhm?si=32dbc7dda30943f1)
 
 ### ↳ Music & Playlists
-I love listening to music while analyzing datasets. You can check out my current heavy rotations and playlists on Spotify via the badge above!
+I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
+*   **[Blueberry Cheesecake](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)** 🍰
+*   **[Classic Affogato](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)** ☕
