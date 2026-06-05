@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=header" width="100%"/>
 
-# Hi, I'm Oka 👋
+# Ini Akun Github Punya Oka | 安宇寬
 
 ### Data Science Student
 **Electronic Engineering Polytechnic Institute of Surabaya — 4th Semester**
@@ -39,7 +39,7 @@ I work with Python and its rich ecosystem for data analysis and visualization:
 ---
 
 ## ◇ GitHub Statistics
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bejochan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bejochan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's Top Languages" />
