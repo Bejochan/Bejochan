@@ -50,11 +50,13 @@ I work with Python and its rich ecosystem for data analysis and visualization:
 ## ◇ Off-Duty Logs
 Here is where you can find me when I am not coding:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-oktar-97728831b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adnan._oktar/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000.svg?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
 [![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF.svg?style=flat&logo=retroarch&logoColor=white)](https://backloggd.com/u/Bejo/)
 [![Steam](https://img.shields.io/badge/Steam-%2300ADEE.svg?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198847624087/)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/312ablatv2yks3ugfrjx4hwvrbhm?si=32dbc7dda30943f1)
+[![Discord](https://img.shields.io/badge/Discord-bejochan-%235865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 ### ↳ Music & Playlists
 I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
