@@ -51,10 +51,11 @@ I work with Python and its rich ecosystem for data analysis and visualization:
 ## ◇ Off-Duty Logs
 Here is where you can find me when I am not coding:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-oktar-97728831b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/adnan-oktar-97728831b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adnan._oktar/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
 [![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF?style=flat&logo=retroarch&logoColor=white)](https://backloggd.com/u/Bejo/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-%23754214?style=flat&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/182595097-bejo)
 [![Steam](https://img.shields.io/badge/Steam-%2300ADEE?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198847624087/)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/312ablatv2yks3ugfrjx4hwvrbhm?si=32dbc7dda30943f1)
 [![Discord](https://img.shields.io/badge/Discord-bejochan-%235865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com)
