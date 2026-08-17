@@ -64,5 +64,6 @@ Here is where you can find me when I am not coding:
 I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
 *   **[Blueberry Cheesecake](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)** 🍰
 *   **[Classic Affogato](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)** ☕
+*   **[Apple Strudel](https://open.spotify.com/playlist/7meEffakruv51EDBHAuNuX)** 🍎
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=footer" width="100%"/>
