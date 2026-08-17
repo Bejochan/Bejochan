@@ -62,8 +62,32 @@ Here is where you can find me when I am not coding:
 
 ### ↳ Music & Playlists
 I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
-[![Blueberry Cheesecake](https://img.shields.io/badge/Blueberry_Cheesecake-%234B1E78?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)
-[![Classic Affogato](https://img.shields.io/badge/Classic_Affogato-%236F4E37?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)
-[![Apple Strudel](https://img.shields.io/badge/Apple_Strudel-%23B23A48?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/7meEffakruv51EDBHAuNuX)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW">
+          <img src="https://mosaic.scdn.co/640/ab67616d00001e024ae1c4c5c45aabe565499163ab67616d00001e028131aa99fb87ff0e9c511851ab67616d00001e02895ef71f3b84221075ac06f5ab67616d00001e02b1d3ef29ee15a18842973471" width="100%" alt="Blueberry Cheesecake"/>
+          <br/>
+          <sub><b>🫐 Blueberry Cheesecake</b></sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh">
+          <img src="https://mosaic.scdn.co/640/ab67616d00001e0258267bd34420a00d5cf83a49ab67616d00001e026d1d4e875e2424cdd07f3232ab67616d00001e028b5a9e7c56f01bec356de9d5ab67616d00001e029503590614c388bd2005798b" width="100%" alt="Classic Affogato"/>
+          <br/>
+          <sub><b>🍨 Classic Affogato</b></sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://open.spotify.com/playlist/7meEffakruv51EDBHAuNuX">
+          <img src="https://mosaic.scdn.co/640/ab67616d00001e0239d8356a90afc6a7b778c6aeab67616d00001e024d265eb3c717ab45470fdc8cab67616d00001e02bc6ee0a7c05af5d905d9a7acab67616d00001e02db45ed33946536fd099548b0" width="100%" alt="Apple Strudel"/>
+          <br/>
+          <sub><b>🍎 Apple Strudel</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=footer" width="100%"/>
