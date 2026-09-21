@@ -31,11 +31,19 @@ I work with Python and its rich ecosystem for data analysis and visualization:
 
 ---
 
-## ◇ Featured Project
+## ◇ Featured Projects
+### [ELYSIA](https://github.com/Bejochan/conversational-video-game-recommendation-assistant) | *Conversational Video Game Assistant* [[Live App](https://elysia-video-game-recommendation.onrender.com/)]
+
+*   Built an emotionally-attuned conversational recommendation system integrating Google Gemini LLM with an 8-dimensional *Playstyle DNA* scoring engine across 24,000+ Steam games.
+*   Implemented a real-time SSE streaming web app with automated constraint extraction and multi-model fallback resiliency, deployed live on [Render](https://elysia-video-game-recommendation.onrender.com/).
+
+<br/>
+
 ### [VibePlay](https://github.com/Bejochan/video-games-recommendation-system) | *Psychography-Based Recommendation System*
 
 *   Mapped gaming behaviors into quantitative data profiles using an interactive 12-question psychographic survey.
 *   Developed a *Mood-Adjusted DNA* feature that dynamically adjusts recommendation weights in real-time based on the player's current state of mind.
+
 
 ---
 
