@@ -1,77 +1,140 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=120&section=header" width="100%"/>
 
-# Ini Akun Github Punya Oka | 安宇寬
+# Adnan Oktar (Oka) · 安宇寬
 
-### Data Science Student
-**Electronic Engineering Polytechnic Institute of Surabaya — 5th Semester**
+### Applied Data Scientist & Machine Learning Pipeline Engineer
+**Politeknik Elektronika Negeri Surabaya (PENS) — Applied Data Science**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanoktar-ds/)
+[![Email](https://img.shields.io/badge/Email-adnanoktar.ds%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adnanoktar.ds@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Surabaya%2C%20Indonesia-gray?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Technical_Portfolio-4_Flagship_Systems-111111?style=flat&logo=git&logoColor=white)](#-featured-engineering-systems)
 
 > *"In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being."* — *Albert Schweitzer*
 
-Applying Data Science to solve problems, while exploring the depths of human minds and gaming backlogs in my free time.
+Applied Data Science practitioner focused on building production-grade machine learning pipelines, multimodal computer vision systems, and resilient cloud architectures.
 
 ---
 
-## ◇ About Me & Core Focus
-I am a Data Science student passionate about translating data into visual stories and actionable insights. Rather than just running models, I find the most joy in digging deep during the initial phases of data analysis.
+## ◇ Core Engineering Competencies
 
-*   **Exploratory Data Analysis (EDA):** I love working with raw datasets, debugging anomalies, and iteratively refining data quality based on visual cues.
-*   **Data Visualization:** Finding patterns, anomalies, and hidden insights by translating complex numbers into intuitive, high-quality plots and charts.
-
----
-
-## ◇ Tech Stack & Tools
-I work with Python and its rich ecosystem for data analysis and visualization:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+* **Multimodal Computer Vision & High-Dimensional Search:** Dense visual representation extraction via OpenAI CLIP (ViT-B/32), FAISS vector indexing (< 200 ms GPU latency across 20,400+ cards), and local texture verification via ORB keypoints and RANSAC homography.
+* **Applied Machine Learning & Resilient LLM Orchestration:** Dual-pass structured prompting, 6-tier cascading failover circuit breakers mitigating cloud quota exhaustion (HTTP 429), and Two-Stage Retrieval pipelines with real-time SSE token streaming.
+* **Data Engineering & Production Cloud Pipelines:** Autonomous scheduled ETL workflows via APScheduler and GitHub Actions, fault-tolerant batch checkpointing (`try...finally`), serverless database connection pool persistence, and PostgreSQL/Supabase management.
 
 ---
 
-## ◇ Featured Projects
-### [ELYSIA](https://github.com/Bejochan/conversational-video-game-recommendation-assistant) | *Conversational Video Game Assistant* [[Live App](https://elysia-video-game-recommendation.onrender.com/)]
+## ◇ Technical Stack & Tools
 
-*   Built an emotionally-attuned conversational recommendation system integrating Google Gemini LLM with an 8-dimensional *Playstyle DNA* scoring engine across 24,000+ Steam games.
-*   Implemented a real-time SSE streaming web app with automated constraint extraction and multi-model fallback resiliency, deployed live on [Render](https://elysia-video-game-recommendation.onrender.com/).
+* **Machine Learning & Deep Learning:**  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![OpenAI CLIP](https://img.shields.io/badge/OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white)
+  ![Ultralytics YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
+  ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat&logo=meta&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+* **LLM & Generative AI Systems:**  
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat&logo=google&logoColor=white)
+  ![Structured JSON Prompting](https://img.shields.io/badge/Structured_Prompting-JSON-009688?style=flat)
+  ![Server-Sent Events](https://img.shields.io/badge/Protocol-Server--Sent_Events_(SSE)-blue?style=flat)
+
+* **Data Engineering & Backend Architecture:**  
+  ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat&logo=python&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_ORM-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask_REST_API-000000?style=flat&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![APScheduler](https://img.shields.io/badge/Scheduler-APScheduler-336791?style=flat)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+* **Analytics, DevOps & Workflow:**  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## ◇ Featured Engineering Systems
+
+### 1. [REGOKEMON](https://github.com/Bejochan/pokemon-card-value-analytic-tool) — Multimodal Visual Retrieval & Card Valuation Engine
+> **Computer Vision & High-Dimensional Vector Search**  
+> `Python 3.12` · `PyTorch (CUDA)` · `OpenAI CLIP (ViT-B/32)` · `FAISS` · `YOLOv8` · `OpenCV` · `Supabase` · `GitHub Actions`
+
+* **High-Throughput Vector Retrieval:** Indexes **20,400+ card variations** using 512-dimensional CLIP visual embeddings, executing cosine similarity search via FAISS `IndexFlatIP` with **< 200 ms GPU latency**.
+* **Dual-Model Inference & Verification:** Combines global semantic classification (Model 1 CLIP) with localized physical defect detection (Model 2 YOLOv8) and fine-grained ORB/RANSAC keypoint re-ranking across top 150 candidates.
+* **Automated Data Ingestion:** Engineered unattended GitHub Actions cron pipeline executing scheduled batch upserts of live TCGPlayer & Cardmarket pricing into a Supabase PostgreSQL instance.
+
+🔗 **[View Repository](https://github.com/Bejochan/pokemon-card-value-analytic-tool)**
 
 <br/>
 
-### [VibePlay](https://github.com/Bejochan/video-games-recommendation-system) | *Psychography-Based Recommendation System*
+### 2. [ELYSIA](https://github.com/Bejochan/conversational-video-game-recommendation-assistant) — Conversational Recommender & 6-Tier Cascading Failover Engine
+> **Conversational AI & High-Availability Architecture**  
+> `Python 3.10` · `Google Gemini API` · `Flask (SSE)` · `NumPy` · `Pandas` · `Vanilla JS` · `Render`
 
-*   Mapped gaming behaviors into quantitative data profiles using an interactive 12-question psychographic survey.
-*   Developed a *Mood-Adjusted DNA* feature that dynamically adjusts recommendation weights in real-time based on the player's current state of mind.
+* **6-Tier Cascading Failover Architecture (`Commit 9ed7315`):** Automated sequential fallback circuit breaker (`gemini-3.5-flash` primary &rarr; `3.6-flash` &rarr; `3.7-flash` &rarr; `3.8-flash` &rarr; `3.5-flash-lite` &rarr; `flash-latest`) completely mitigating HTTP 429 quota exhaustion.
+* **Two-Stage Hybrid Retrieval:** Stage 1 fast mathematical candidate pruning (< 50 ms across 24,082 titles via 3D Euclidean DNA distance + Jaccard genre similarity) paired with Stage 2 Neural LLM Re-Ranking strictly enforcing negative conversational constraints.
+* **Real-Time Streaming UX:** Zero-dependency word-by-word token delivery via Server-Sent Events (SSE) and client-side dynamic SVG 3D Playstyle DNA polygon rendering, deployed live on Render.
 
+🔗 **[View Repository](https://github.com/Bejochan/conversational-video-game-recommendation-assistant)** · 🌐 **[Live Cloud Demo](https://elysia-video-game-recommendation.onrender.com/)**
+
+<br/>
+
+### 3. [VibePlay](https://github.com/Bejochan/video-games-recommendation-system) — Interactive Storefront & Hybrid Recommender System
+> **Applied Machine Learning & Resilient Data Ingestion**  
+> `Python 3.10` · `Scikit-Learn` · `Flask REST API` · `RAWG API` · `Steam Web API` · `Vanilla JS` · `Vercel`
+
+* **Fault-Tolerant Checkpoint Scraping:** Persistent `try...finally` extraction pipeline with automated batch state auto-flushing every 50 games to `progress_temp.csv`, regex Steam IDR currency normalization, and lexical NSFW content filtering.
+* **Psychographic Profiling & Mood Modulation:** Maps player temperament across 3 continuous polar axes via a 12-item situational questionnaire with dynamic real-time mood vector coordinate shifting (15%–35%).
+* **Multidimensional Radar Visualization:** Projects hybrid similarity scores (Euclidean playstyle distance + Jaccard genre overlap + soft-constraint budget penalty) onto interactive 6-axis hexagonal polygon radar charts.
+
+🔗 **[View Repository](https://github.com/Bejochan/video-games-recommendation-system)** · 🌐 **[Live Web App](https://vibeplay-recommendation-system.vercel.app/)**
+
+<br/>
+
+### 4. [Sistem Prediksi ISPU](https://github.com/tegarkusuma12/Web-ISPU) — Regional Air Quality Forecasting & Streaming Pipeline
+> **Time-Series Data Engineering & Streaming Architecture**  
+> `Python 3.10` · `APScheduler` · `PostgreSQL (Supabase)` · `SQLAlchemy ORM` · `Flask REST API` · `Leaflet.js`
+
+* **Autonomous Scheduled Ingestion:** Concurrent hourly worker via `APScheduler` daemon pulling real-time atmospheric data across all 38 regencies and cities in East Java with **99.9% pipeline uptime**.
+* **Database Resilience & Timezone Integrity:** Configured SQLAlchemy connection recycling (`pool_recycle=280`, `pool_pre_ping=True` — `Commit fb5ef20`) eliminating cloud cold-start TCP dropouts and enforced UTC timestamp casting (`Commit 2fb9994`) for deterministic 24-hour rolling windows.
+* **Interactive GIS Dashboard:** Dynamic choropleth map with time-slider machine vision forecasting 6 criteria air pollutants (PM2.5, PM10, CO, NO2, SO2, O3) under Indonesian environmental ministry standards.
+
+🔗 **[View Repository](https://github.com/tegarkusuma12/Web-ISPU)** · 🌐 **[Live Dashboard](https://web-prediksi-ispu.vercel.app/)**
 
 ---
 
 ## ◇ GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bejochan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bejochan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Adnan Oktar's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bejochan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Oka's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bejochan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=a5b4fc&icon_color=818cf8&border_color=30363d" alt="Adnan Oktar's Top Languages" />
 </p>
 
 ---
 
-## ◇ Off-Duty Logs
-Here is where you can find me when I am not coding:
+## ◇ Off-Duty Logs & Culture Fit
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/adnanoktar-ds/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adnan._oktar/)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
+When I'm not architecting pipelines or fine-tuning models, you can find me exploring cinema, books, and gaming backlogs:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanoktar-ds/)
 [![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF?style=flat&logo=retroarch&logoColor=white)](https://backloggd.com/u/Bejo/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23754214?style=flat&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/182595097-bejo)
 [![Steam](https://img.shields.io/badge/Steam-%2300ADEE?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198847624087/)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/312ablatv2yks3ugfrjx4hwvrbhm?si=32dbc7dda30943f1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adnan._oktar/)
 [![Discord](https://img.shields.io/badge/Discord-bejochan-%235865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com)
 
-### ↳ Music & Playlists
-I love listening to music while analyzing datasets. You can explore my actual public playlists directly on Spotify:
-*   **[Blueberry Cheesecake](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)** 🫐🍰
-*   **[Cassis Affogato](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)** 🍨☕
-*   **[Apple Strudel](https://open.spotify.com/playlist/7meEffakruv51EDBHAuNuX)** 🍎🥧
+### ↳ Curated Coding Playlists
+Atmospheric playlists curated for deep focus during model training and data analysis sessions:
+* 🫐 **[Blueberry Cheesecake](https://open.spotify.com/playlist/6mZDThXiUq5Eo7tAWcUEvW)**
+* 🍨 **[Cassis Affogato](https://open.spotify.com/playlist/5dxWhbv5Egq39CqkONp5rh)**
+* 🍎 **[Apple Strudel](https://open.spotify.com/playlist/7meEffakruv51EDBHAuNuX)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=100&section=footer" width="100%"/>
