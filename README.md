@@ -40,7 +40,7 @@ Applied Data Science practitioner focused on building production-grade machine l
   ![Server-Sent Events](https://img.shields.io/badge/Protocol-Server--Sent_Events_(SSE)-blue?style=flat)
 
 * **Data Engineering & Backend Architecture:**  
-  ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_ORM-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
@@ -49,12 +49,14 @@ Applied Data Science practitioner focused on building production-grade machine l
   ![APScheduler](https://img.shields.io/badge/Scheduler-APScheduler-336791?style=flat)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-* **Analytics, DevOps & Workflow:**  
+* **Analytics, Cloud & DevOps:**  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -98,7 +100,7 @@ Applied Data Science practitioner focused on building production-grade machine l
 
 ### 4. [Sistem Prediksi ISPU](https://github.com/tegarkusuma12/Web-ISPU) — Regional Air Quality Forecasting & Streaming Pipeline
 > **Time-Series Data Engineering & Streaming Architecture**  
-> `Python 3.10` · `APScheduler` · `PostgreSQL (Supabase)` · `SQLAlchemy ORM` · `Flask REST API` · `Leaflet.js`
+> `Python 3.10` · `APScheduler` · `Docker` · `PostgreSQL (Supabase)` · `SQLAlchemy ORM` · `Flask REST API` · `Leaflet.js`
 
 * **Autonomous Scheduled Ingestion:** Concurrent hourly worker via `APScheduler` daemon pulling real-time atmospheric data across all 38 regencies and cities in East Java with **99.9% pipeline uptime**.
 * **Database Resilience & Timezone Integrity:** Configured SQLAlchemy connection recycling (`pool_recycle=280`, `pool_pre_ping=True` — `Commit fb5ef20`) eliminating cloud cold-start TCP dropouts and enforced UTC timestamp casting (`Commit 2fb9994`) for deterministic 24-hour rolling windows.
@@ -122,7 +124,6 @@ Applied Data Science practitioner focused on building production-grade machine l
 
 When I'm not architecting pipelines or fine-tuning models, you can find me exploring cinema, books, and gaming backlogs:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanoktar-ds/)
 [![Backloggd](https://img.shields.io/badge/Backloggd-%235F85FF?style=flat&logo=retroarch&logoColor=white)](https://backloggd.com/u/Bejo/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23FF8000?style=flat&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Bejochan/)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23754214?style=flat&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/182595097-bejo)
