@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:8b949e&height=120&section=header" width="100%"/>
 
-# Adnan Oktar (Oka) · 安宇寬
+# Adnan Oktar · Oka · 安宇寬
 
 ### Applied Data Scientist & Machine Learning Pipeline Engineer
 **Politeknik Elektronika Negeri Surabaya (PENS) — Applied Data Science**
@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanoktar-ds/)
 [![Email](https://img.shields.io/badge/Email-adnanoktar.ds%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adnanoktar.ds@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Surabaya%2C%20Indonesia-gray?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Website-adnanoktar.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://adnanoktar.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Technical_Portfolio-4_Flagship_Systems-111111?style=flat&logo=git&logoColor=white)](#-featured-engineering-systems)
 
 > *"In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being."* — *Albert Schweitzer*
