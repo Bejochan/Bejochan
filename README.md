@@ -36,45 +36,39 @@ Applied Data Science practitioner focused on building production-grade machine l
 ## ◇ Technical Stack & Tools
 
 <div align="center">
-  <p>
-    <strong>Machine Learning & Deep Learning</strong><br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  
-    </p>
-  <p>
-    <strong>LLM & Generative AI Systems</strong><br/>
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Structured_Prompting-JSON-009688?style=flat" />
-  <img src="https://img.shields.io/badge/Protocol-Server--Sent_Events_(SSE)-blue?style=flat" />
-  
-    </p>
-  <p>
-    <strong>Data Engineering & Backend Architecture</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy_ORM-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask_REST_API-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scheduler-APScheduler-336791?style=flat" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
-    </p>
-  <p>
-    <strong>Analytics, Cloud & DevOps</strong><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  </p>
+**Machine Learning & Deep Learning**<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+
+**LLM & Generative AI Systems**<br/>
+<img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Structured_Prompting-JSON-009688?style=flat" />
+<img src="https://img.shields.io/badge/Protocol-Server--Sent_Events_(SSE)-blue?style=flat" />
+
+**Data Engineering & Backend Architecture**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy_ORM-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask_REST_API-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Scheduler-APScheduler-336791?style=flat" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+**Analytics, Cloud & DevOps**<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+
 </div>
 
 ---
