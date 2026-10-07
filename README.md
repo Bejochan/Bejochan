@@ -36,8 +36,8 @@ Applied Data Science practitioner focused on building production-grade machine l
 ## ◇ Technical Stack & Tools
 
 <div align="center">
-  <br/>
-  <strong>Machine Learning & Deep Learning</strong><br/>
+  <p>
+    <strong>Machine Learning & Deep Learning</strong><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black" />
@@ -45,14 +45,16 @@ Applied Data Science practitioner focused on building production-grade machine l
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   
-  <br/><br/>
-  <strong>LLM & Generative AI Systems</strong><br/>
+    </p>
+  <p>
+    <strong>LLM & Generative AI Systems</strong><br/>
   <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Structured_Prompting-JSON-009688?style=flat" />
   <img src="https://img.shields.io/badge/Protocol-Server--Sent_Events_(SSE)-blue?style=flat" />
   
-  <br/><br/>
-  <strong>Data Engineering & Backend Architecture</strong><br/>
+    </p>
+  <p>
+    <strong>Data Engineering & Backend Architecture</strong><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
@@ -62,8 +64,9 @@ Applied Data Science practitioner focused on building production-grade machine l
   <img src="https://img.shields.io/badge/Scheduler-APScheduler-336791?style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
-  <br/><br/>
-  <strong>Analytics, Cloud & DevOps</strong><br/>
+    </p>
+  <p>
+    <strong>Analytics, Cloud & DevOps</strong><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -71,6 +74,7 @@ Applied Data Science practitioner focused on building production-grade machine l
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  </p>
 </div>
 
 ---
